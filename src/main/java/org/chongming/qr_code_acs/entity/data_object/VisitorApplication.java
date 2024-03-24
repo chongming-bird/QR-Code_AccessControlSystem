@@ -1,4 +1,4 @@
-package org.chongming.qrcode_accesscontrolsystem.entity.data_object;
+package org.chongming.qr_code_acs.entity.data_object;
 
 import java.sql.Timestamp;
 

@@ -1,4 +1,4 @@
-package org.chongming.qrcode_accesscontrolsystem.entity;
+package org.chongming.qr_code_acs.entity;
 
 import lombok.Data;
 
